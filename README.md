@@ -2,7 +2,8 @@
 
 ## Overview
 
-In this project, I scanned and processed all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media following the MapReduce procedure. Specifically, this project visualize the number of tweets each country and language send in 2020 with the Hashtag #coronavirus in both English and Korean version. 
+In this project, I scanned and processed all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media following the MapReduce procedure. Specifically, this project visualizes the number of tweets each country and language sent in 2020 using the Hashtag #coronavirus in both English and Korean version. 
+
 
 ## Results
 
